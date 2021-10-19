@@ -3,9 +3,10 @@
     {
       "id": 1,
       "title": "Officely!",
+      "author": "Chris O'Hanlon",
       "src": "https://dqrf1bxsdu4j4.cloudfront.net/fcfbd78629cd1e85bd3c845a8417af38"
     },
-    { "id": 2, "title": "VML Stories", "src": "" }
+    { "id": 2, "title": "VML Stories", "src": "", "author": "" }
   ],
   "comments": [
     {
