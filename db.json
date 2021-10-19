@@ -1,12 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "VML Rocks" },
-    { "id": 2, "title": "VML Stones" },
-    { "id": 3, "title": "VML Boulders" }
+  "videos": [
+    {
+      "id": 1,
+      "title": "Officely!",
+      "src": "https://dqrf1bxsdu4j4.cloudfront.net/fcfbd78629cd1e85bd3c845a8417af38"
+    },
+    { "id": 2, "title": "VML Stories", "src": "" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "text": "Great Stuff Chris, can't wait to get back into the office!",
+      "user": "Mike",
+      "date": 1634659374835,
+      "upvotes": 0,
+      "video_id": 1
+    },
+    {
+      "id": 2,
+      "text": "Go the Seahawks! Patriots are going down this year.",
+      "user": "Andrew",
+      "date": 1634645161000,
+      "upvotes": 0,
+      "video_id": 2
+    },
+    {
+      "id": 3,
+      "text": "Dibs on the wooden floor room's corner deck!",
+      "user": "Matthew",
+      "date": 1634558761000,
+      "upvotes": 2,
+      "video_id": 1
+    },
+    {
+      "id": 4,
+      "text": "Any word on free doughnuts every lunch?!?!",
+      "user": "Harry",
+      "date": 1634583961000,
+      "upvotes": 3,
+      "video_id": 1
+    },
+    {
+      "id": 5,
+      "text": "~~~ Upvote if you're listening in 2022 ~~~",
+      "user": "Tom",
+      "date": 1634670361000,
+      "upvotes": 10,
+      "video_id": 1
+    },
+    {
+      "id": 6,
+      "text": "Overrated!",
+      "user": "Ricky",
+      "date": 1634672161000,
+      "upvotes": 6,
+      "video_id": 2
+    },
+    {
+      "id": 7,
+      "text": "This should solve the parking issues! 🤞",
+      "user": "James",
+      "date": 1634412961000,
+      "upvotes": 4,
+      "video_id": 1
+    }
   ],
   "profile": {
     "name": "typicode"
